@@ -1,0 +1,5 @@
+com\newtours\qa\testcases\DestinationsPageTest.class
+com\newtours\qa\testcases\LoginPageTest.class
+com\newtours\qa\testcases\RegisterPageTest.class
+com\newtours\qa\testcases\VacationsPageTest.class
+com\newtours\qa\testcases\FlightsPageTest.class

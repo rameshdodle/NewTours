@@ -1,0 +1,9 @@
+com\newtours\qa\pages\DestinationsPage.class
+com\newtours\qa\pages\FlightsPage.class
+com\newtours\qa\utility\TestUtil.class
+com\newtours\qa\pages\VacationsPage.class
+com\newtours\qa\base\TestBase.class
+com\newtours\qa\pages\LoginPage.class
+com\newtours\qa\pages\RegisterPage.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\newtours\qa\utility\WebEventListener.class

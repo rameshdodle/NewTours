@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NEWTOURS DEMAOUT Application Test Automation Test Suite">
+
+    <listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="NEWTOURS DEMAOUT App Test Cases">
+		<classes>
+		    <class name="com.newtours.qa.testcases.RegisterPageTest"></class>
+			<class name="com.newtours.qa.testcases.LoginPageTest"></class>
+			<class name="com.newtours.qa.testcases.FlightsPageTest"></class>
+			<class name="com.newtours.qa.testcases.VacationsPageTest"></class>
+			<class name="com.newtours.qa.testcases.DestinationsPageTest"></class>
+			
+		</classes>
+	</test>
+</suite>

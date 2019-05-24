@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NEWTOURS DEMAOUT Application Test Automation Test Suite" duration-ms="137587" started-at="2019-04-21T17:11:44Z" finished-at="2019-04-21T17:14:02Z">
+    <groups>
+    </groups>
+    <test name="NEWTOURS DEMAOUT App Test Cases" duration-ms="137587" started-at="2019-04-21T17:11:44Z" finished-at="2019-04-21T17:14:02Z">
+      <class name="com.newtours.qa.testcases.VacationsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.VacationsPageTest@13deb50e]" name="setUp" is-config="true" duration-ms="17627" started-at="2019-04-21T17:12:48Z" finished-at="2019-04-21T17:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatevacationsPageTitleTest()[pri:0, instance:com.newtours.qa.testcases.VacationsPageTest@13deb50e]" name="validatevacationsPageTitleTest" duration-ms="17" started-at="2019-04-21T17:13:06Z" finished-at="2019-04-21T17:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatevacationsPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.VacationsPageTest@13deb50e]" name="tearDown" is-config="true" duration-ms="17" started-at="2019-04-21T17:13:06Z" finished-at="2019-04-21T17:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.newtours.qa.testcases.VacationsPageTest -->
+      <class name="com.newtours.qa.testcases.DestinationsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.DestinationsPageTest@239963d8]" name="setUp" is-config="true" duration-ms="16243" started-at="2019-04-21T17:13:06Z" finished-at="2019-04-21T17:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatedestinationsPageTitleTest()[pri:0, instance:com.newtours.qa.testcases.DestinationsPageTest@239963d8]" name="validatedestinationsPageTitleTest" duration-ms="763" started-at="2019-04-21T17:13:22Z" finished-at="2019-04-21T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatedestinationsPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.DestinationsPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="22" started-at="2019-04-21T17:13:23Z" finished-at="2019-04-21T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.newtours.qa.testcases.DestinationsPageTest -->
+      <class name="com.newtours.qa.testcases.FlightsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="setUp" is-config="true" duration-ms="29001" started-at="2019-04-21T17:11:44Z" finished-at="2019-04-21T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickBusinessclassBtnTest()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="clickBusinessclassBtnTest" duration-ms="214" started-at="2019-04-21T17:12:13Z" finished-at="2019-04-21T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBusinessclassBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="13" started-at="2019-04-21T17:12:13Z" finished-at="2019-04-21T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="setUp" is-config="true" duration-ms="17030" started-at="2019-04-21T17:12:13Z" finished-at="2019-04-21T17:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOneWayRadioBtnTest()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="clickOneWayRadioBtnTest" duration-ms="135" started-at="2019-04-21T17:12:30Z" finished-at="2019-04-21T17:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOneWayRadioBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="14" started-at="2019-04-21T17:12:31Z" finished-at="2019-04-21T17:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="setUp" is-config="true" duration-ms="17393" started-at="2019-04-21T17:12:31Z" finished-at="2019-04-21T17:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateFlightsPageTitleTest()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="validateFlightsPageTitleTest" duration-ms="41" started-at="2019-04-21T17:12:48Z" finished-at="2019-04-21T17:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFlightsPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.FlightsPageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="21" started-at="2019-04-21T17:12:48Z" finished-at="2019-04-21T17:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.newtours.qa.testcases.FlightsPageTest -->
+      <class name="com.newtours.qa.testcases.RegisterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="setUp" is-config="true" duration-ms="9999" started-at="2019-04-21T17:13:25Z" finished-at="2019-04-21T17:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnregisterLinkTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="clickOnregisterLinkTest" duration-ms="1721" started-at="2019-04-21T17:13:35Z" data-provider="getNewToursTestdata" finished-at="2019-04-21T17:13:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dodle]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.999999999E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnregisterLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="tearDown" is-config="true" duration-ms="11" started-at="2019-04-21T17:13:37Z" finished-at="2019-04-21T17:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="setUp" is-config="true" duration-ms="10541" started-at="2019-04-21T17:13:37Z" finished-at="2019-04-21T17:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnregisterLinkTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="clickOnregisterLinkTest" duration-ms="1820" started-at="2019-04-21T17:13:47Z" data-provider="getNewToursTestdata" finished-at="2019-04-21T17:13:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaggu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[meka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.888888888E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnregisterLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="tearDown" is-config="true" duration-ms="18" started-at="2019-04-21T17:13:49Z" finished-at="2019-04-21T17:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="setUp" is-config="true" duration-ms="10725" started-at="2019-04-21T17:13:49Z" finished-at="2019-04-21T17:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnregisterLinkTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="clickOnregisterLinkTest" duration-ms="1934" started-at="2019-04-21T17:14:00Z" data-provider="getNewToursTestdata" finished-at="2019-04-21T17:14:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tejesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shita]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.777777777E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnregisterLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newtours.qa.testcases.RegisterPageTest@6eebc39e]" name="tearDown" is-config="true" duration-ms="42" started-at="2019-04-21T17:14:02Z" finished-at="2019-04-21T17:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.newtours.qa.testcases.RegisterPageTest -->
+    </test> <!-- NEWTOURS DEMAOUT App Test Cases -->
+  </suite> <!-- NEWTOURS DEMAOUT Application Test Automation Test Suite -->
+</testng-results>
